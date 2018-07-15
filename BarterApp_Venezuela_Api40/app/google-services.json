@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "346178730307",
+    "firebase_url": "https://barter-8845b.firebaseio.com",
+    "project_id": "barter-8845b",
+    "storage_bucket": "barter-8845b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346178730307:android:d5ba3abcaea4b809",
+        "android_client_info": {
+          "package_name": "com.slack.hackforvenezuela.barterapp_venezuela_api40"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346178730307-v8v0h34llshb1uqqsirtsf5e6o9ioi70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgag64QAK7OU_T40YNSw1y5FIdhfws-TE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
